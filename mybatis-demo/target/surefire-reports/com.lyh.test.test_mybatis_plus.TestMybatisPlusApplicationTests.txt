@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.lyh.test.test_mybatis_plus.TestMybatisPlusApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 44.455 s - in com.lyh.test.test_mybatis_plus.TestMybatisPlusApplicationTests

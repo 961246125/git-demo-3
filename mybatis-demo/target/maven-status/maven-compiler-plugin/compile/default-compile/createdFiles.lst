@@ -1,0 +1,7 @@
+entity/City.class
+mapper/CityMapper.class
+mapper/UserMapper.class
+mapper/AnimalMapper.class
+com/lyh/test/test_mybatis_plus/TestMybatisPlusApplication.class
+entity/User.class
+entity/Animal.class
