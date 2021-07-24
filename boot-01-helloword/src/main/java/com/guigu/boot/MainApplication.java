@@ -22,7 +22,7 @@ public class MainApplication {
         ApplicationContext context = new ClassPathXmlApplicationContext("classpath:beans.xml");
         String[] names = run.getBeanDefinitionNames();
         for(String name : names){
-            System.out.println("123456789");
+            System.out.println("helloworld!");
         }
 
         Pet tom01 = context.getBean(Pet.class);
